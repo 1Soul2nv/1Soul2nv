@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...jahlil2nyc@gmail.com
 - 😄 Pronouns: ... He-him
-- ⚡ Fun fact: ...I'm a total tech nerd and like improving specs or software to run opitmaly 
+- ⚡ Fun fact: ...I'm a total tech nerd and like improving specs or software to run optimally
 
 <!---
 1Soul2nv/1Soul2nv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
